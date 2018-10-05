@@ -1,0 +1,16 @@
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\bin\Debug\CalculatorTest.Data.dll.config
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\bin\Debug\CalculatorTest.Data.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\bin\Debug\CalculatorTest.Data.pdb
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\bin\Debug\OptimizedDataReader.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\bin\Debug\Savage.Data.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\bin\Debug\Savage.Data.SqlServerClient.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\obj\Debug\CalculatorTest.Data.csprojAssemblyReference.cache
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\obj\Debug\CalculatorTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\obj\Debug\CalculatorTest.Data.csproj.CopyComplete
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\obj\Debug\CalculatorTest.Data.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Data\obj\Debug\CalculatorTest.Data.pdb

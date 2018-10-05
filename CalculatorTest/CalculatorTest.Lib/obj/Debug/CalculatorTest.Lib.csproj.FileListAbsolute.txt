@@ -1,0 +1,12 @@
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\bin\Debug\CalculatorTest.Lib.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\bin\Debug\CalculatorTest.Lib.pdb
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\bin\Debug\CalculatorTest.Data.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\bin\Debug\EntityFramework.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\bin\Debug\CalculatorTest.Data.pdb
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\bin\Debug\CalculatorTest.Data.dll.config
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\bin\Debug\EntityFramework.xml
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\obj\Debug\CalculatorTest.Lib.csprojAssemblyReference.cache
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\obj\Debug\CalculatorTest.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\obj\Debug\CalculatorTest.Lib.csproj.CopyComplete
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\obj\Debug\CalculatorTest.Lib.dll
+C:\Users\Ramnath\Source\Repos\CalculatorTest\CalculatorTest.Lib\obj\Debug\CalculatorTest.Lib.pdb
