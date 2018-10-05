@@ -17,9 +17,9 @@ namespace CalculatorTest.Client
         static void Main()
         {
             // 1. Log to the console
-            //IDiagnostics diagnosticsConsole = new Diagnostics();         
-            //ISimpleCalculator calculator = new SimpleCalculator(diagnosticsConsole);
-            //calculator.Add(2, 254);
+            IDiagnostics diagnosticsConsole = new Diagnostics();
+            ISimpleCalculator calculator = new SimpleCalculator(diagnosticsConsole);
+            calculator.Add(2, 254);
 
             //2. Log into database via ADO.NET
             //IDiagnostics diagnosticsAdoNet = new Diagnostics(LogMode.ADONET);
@@ -27,9 +27,9 @@ namespace CalculatorTest.Client
             //calculatorAdo.Add(2, 254);
 
             //3. Log into database via ADO.NET
-            IDiagnostics diagnosticsOrm = new Diagnostics(LogMode.ORM);
-            ISimpleCalculator calculatorOrm = new SimpleCalculator(diagnosticsOrm);
-            calculatorOrm.Add(2, 254);
+            //IDiagnostics diagnosticsOrm = new Diagnostics(LogMode.ORM);
+            //ISimpleCalculator calculatorOrm = new SimpleCalculator(diagnosticsOrm);
+            //calculatorOrm.Add(2, 254);
 
             //4. Consume Calculator Api 
 
